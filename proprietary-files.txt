@@ -2141,12 +2141,17 @@ vendor/firmware/dpAP_mini.mbn
 vendor/firmware/dpAP_modemssr.mbn
 vendor/firmware/dpMSA.mbn
 
-# Dolby Vision
+# Dolby Vision Configs & Libs
+my_product/lib64/libdolbyeffect_4.1.so:product/lib64/libdolbyeffect_4.1.so
+my_product/lib64/liboplusdolbyeffect_4.1.so:product/lib64/liboplusdolbyeffect_4.1.so
 odm/etc/dolby/display/dolby_vision.cfg
 odm/etc/dolby/dolby_vision.cfg
 odm/etc/media_codecs_dolby_vision.xml
 odm/lib64/libdolbyclstc.so
+system/etc/dolby_vision.cfg
+system/lib64/vendor.dolby.dvs-V1-ndk.so
 vendor/etc/dolby_vision.cfg
+vendor/persist/display/dolby_vision.cfg
 
 # EVA firmware
 vendor/firmware/evass-lt.b00
