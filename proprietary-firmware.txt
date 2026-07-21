@@ -1,7 +1,13 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 12 (CPH2573_16.0.9.400(EX01)).
 
-abl.img;AB
+# Exceptions:
+# abl, xbl, xbl_config: from OnePlus 12 (CPH2573_16.0.2.400(EX01))). (NON-ARB)
+
+abl.img;AB|f02a57e2af169b2c20a670e272b05ded2f1f72ca
+xbl.img;AB|0f6ff7ed07cdc06c94d0e9599c38f62fe0476356
+xbl_config.img;AB|f07d1872bfbb25e3b354c2f204c168a346de013a
+
 aop.img;AB
 aop_config.img;AB
 bluetooth.img;AB
@@ -23,6 +29,4 @@ splash.img;AB
 tz.img;AB
 uefi.img;AB
 uefisecapp.img;AB
-xbl.img;AB
-xbl_config.img;AB
 xbl_ramdump.img;AB
