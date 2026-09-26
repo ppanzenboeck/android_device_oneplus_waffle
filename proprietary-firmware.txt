@@ -1,28 +1,28 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 12 (CPH2573_16.0.9.400(EX01)).
+## are from OnePlus 12 (CPH2573_16.0.2.400(EX01)).
 
-abl.img;AB
-aop.img;AB
-aop_config.img;AB
-bluetooth.img;AB
-cpucp.img;AB
-cpucp_dtb.img;AB
-devcfg.img;AB
-dsp.img;AB
-engineering_cdt.img;AB
-featenabler.img;AB
-hyp.img;AB
-imagefv.img;AB
-keymaster.img;AB
-modem.img;AB
-oplus_sec.img;AB
-oplusstanvbk.img;AB
-qupfw.img;AB
-shrm.img;AB
-splash.img;AB
-tz.img;AB
-uefi.img;AB
-uefisecapp.img;AB
-xbl.img;AB
-xbl_config.img;AB
-xbl_ramdump.img;AB
+abl.img;AB|f02a57e2af169b2c20a670e272b05ded2f1f72ca
+aop.img;AB|cef6af84badcebf7f3a3082f506cd296812735a3
+aop_config.img;AB|520adc748ea5a4e4a553f7dd48fa84573326ebb4
+bluetooth.img;AB|b6d156d1f1d34e5f3b00204f1e5dd156aff514d0
+cpucp.img;AB|35cc7520696b4908891a72a6bd1b9a856bbe8f9e
+cpucp_dtb.img;AB|02304c7e367de4778dec2dea7851a441a0f10d85
+devcfg.img;AB|afa3846b4a4adf307e7c436d9351b7c2c13637e4
+dsp.img;AB|72075bb397712d2b7753e2a8654cf8e5c2313602
+engineering_cdt.img;AB|b45d86ed70f850ed093a6a4f338871fcc0ea2933
+featenabler.img;AB|eec8088a5cc8cbff8b509fad3c63a9b2db4d48dd
+hyp.img;AB|44faa18e928f4a2f2a657ee7b234ec5615700d20
+imagefv.img;AB|5ca210fdc4ade9eb096576eca19810f36efebd9d
+keymaster.img;AB|416d9e2d6b813f8c82f6510cc518ee9d21b90fe3
+modem.img;AB|0a2b1b2a2fa804eb0593fa579d2cc3f2818565a3
+oplus_sec.img;AB|2a0a3bc41fa77874e80515aaee0a151fd7ea2756
+oplusstanvbk.img;AB|b8ac0c9d1909f53aefdb86274b4c7fa1284f6039
+qupfw.img;AB|cd40bd8b5d510a5f772de9770779ed862275061b
+shrm.img;AB|c52c7c029cda22e4e00b225d4b2dbfb3110a20d7
+splash.img;AB|02a16b8f3e8f9f0214964ad40feadf06690fc526
+tz.img;AB|7d57ba51fb906e88cadb56c503e1756604cd70ae
+uefi.img;AB|b4e3a9dd0ecfdf9ab6e9419617e8b0b088724d38
+uefisecapp.img;AB|9f3b45ced03e11dc24d3e0130393f4849c5cc37a
+xbl.img;AB|0f6ff7ed07cdc06c94d0e9599c38f62fe0476356
+xbl_config.img;AB|f07d1872bfbb25e3b354c2f204c168a346de013a
+xbl_ramdump.img;AB|afd8943b17866ee567627d962b17f2c3312fe2c8
